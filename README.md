@@ -1,2 +1,4 @@
 # hello-word
-just anthor repository
+hi  
+basharmo here i like nodr.js
+rty
